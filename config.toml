@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://strangelyhuman.github.io/strangelyhuman"
+baseurl = "https://strangelyhuman.github.io/strangelyhuman/"
 themesDir = "themes"
 languageCode = "en-us"
 title = "Aditya Devaguptapu"
