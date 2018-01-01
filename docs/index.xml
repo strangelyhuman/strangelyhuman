@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aditya Devaguptapu</title>
+    <link>https://strangelyhuman.github.io/strangelyhuman/</link>
+    <description>Recent content on Aditya Devaguptapu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 11:26:51 -0800</lastBuildDate>
+    
+	<atom:link href="https://strangelyhuman.github.io/strangelyhuman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello there!</title>
+      <link>https://strangelyhuman.github.io/strangelyhuman/post/helloworld/</link>
+      <pubDate>Mon, 01 Jan 2018 11:26:51 -0800</pubDate>
+      
+      <guid>https://strangelyhuman.github.io/strangelyhuman/post/helloworld/</guid>
+      <description>Hi First things first, A Happy new year! I figured I would make a resolution that could easily be fulfilled and voila!- this blog was formed!
+I have been meaning to move away from Wordpress and Tumblr because I wanted more control over my content without having to navigate through the maze of menus and plugins. To that end, I have been working on a nice side project - building a blog.</description>
+    </item>
+    
+  </channel>
+</rss>
