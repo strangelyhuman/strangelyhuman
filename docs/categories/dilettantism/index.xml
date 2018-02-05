@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aditya Devaguptapu</title>
-    <link>https://strangelyhuman.github.io/strangelyhuman/</link>
-    <description>Recent content on Aditya Devaguptapu</description>
+    <title>Dilettantism on Aditya Devaguptapu</title>
+    <link>https://strangelyhuman.github.io/strangelyhuman/categories/dilettantism/</link>
+    <description>Recent content in Dilettantism on Aditya Devaguptapu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://strangelyhuman.github.io/strangelyhuman/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://strangelyhuman.github.io/strangelyhuman/categories/dilettantism/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>Just wanted to give you a general sense of the things I&amp;rsquo;ve been doing. In fact, I think its all over the place. A couple of years back, I found the adjective that&amp;rsquo;s an apt description of the situation I am in- Dilettantism.
 A person who dabbles in a lot of things without really being serious about any one thing.
 While the adjective is meant to be pejorative, I often take some pride in the fact that I dabble in a lot of things- It&amp;rsquo;s just that I find all the things that I am doing equally interesting and I like devoting a fair share of time to them all, without letting go of anything that I&amp;rsquo;ve started.</description>
-    </item>
-    
-    <item>
-      <title>Hello there!</title>
-      <link>https://strangelyhuman.github.io/strangelyhuman/post/helloworld/</link>
-      <pubDate>Mon, 01 Jan 2018 11:26:51 -0800</pubDate>
-      
-      <guid>https://strangelyhuman.github.io/strangelyhuman/post/helloworld/</guid>
-      <description>Hi First things first, A Happy new year! I figured I would make a resolution that could easily be fulfilled and voila!- this blog was formed!
-I have been meaning to move away from Wordpress and Tumblr because I wanted more control over my content without having to navigate through the maze of menus and plugins. To that end, I have been working on a nice side project - building a blog.</description>
     </item>
     
   </channel>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://strangelyhuman.github.io/strangelyhuman/post/february/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://strangelyhuman.github.io/strangelyhuman/post/helloworld/</loc>
     <lastmod>2018-01-01T11:26:51-08:00</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>https://strangelyhuman.github.io/strangelyhuman/</loc>
-    <lastmod>2018-01-01T11:26:51-08:00</lastmod>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -24,13 +29,44 @@
   </url>
   
   <url>
+    <loc>https://strangelyhuman.github.io/strangelyhuman/categories/dev/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://strangelyhuman.github.io/strangelyhuman/categories/dilettantism/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://strangelyhuman.github.io/strangelyhuman/tags/geek/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://strangelyhuman.github.io/strangelyhuman/categories/illustration/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://strangelyhuman.github.io/strangelyhuman/post/</loc>
-    <lastmod>2018-01-01T11:26:51-08:00</lastmod>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://strangelyhuman.github.io/strangelyhuman/tags/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://strangelyhuman.github.io/strangelyhuman/tags/updates/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
